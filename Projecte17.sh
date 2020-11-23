@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Definim la funció que dona informació a l'usuari de la comanda
+#Definim la funció que dona informació a l'usuari de la comanda.
 usage(){
 cat <<EOF	
 	Utilització: $0 -u nomUsuari -h direccióHost [-p port <1025-65535>] [-t]
